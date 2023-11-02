@@ -17,6 +17,8 @@ class Cube(object):
         pass
 
 class snake(object):
+    body = []
+    turns = {}
     def __init__(self, color, pos):
         pass
 
